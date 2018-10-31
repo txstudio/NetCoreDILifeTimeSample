@@ -2,6 +2,13 @@
 
 此範例程式碼將示範 Transient、Singleton、Scoped 的差異
 
+使用 .NET Core 的 Dependency Injection 功能需加入下列套件參考
+
+```
+dotnet add package Microsoft.Extensions.Options
+dotnet add package Microsoft.Extensions.DependencyInjection
+```
+
 
 ### 參考資料
 
